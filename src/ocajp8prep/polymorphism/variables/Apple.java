@@ -1,4 +1,4 @@
-package ocajp8prep.polymorphism;
+package ocajp8prep.polymorphism.variables;
 
 public class Apple extends Food{
     public int calories = 2;

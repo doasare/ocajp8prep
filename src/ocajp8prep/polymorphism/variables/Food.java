@@ -1,4 +1,4 @@
-package ocajp8prep.polymorphism;
+package ocajp8prep.polymorphism.variables;
 
 public class Food {
     public int calories = 4; //variables are not polymorphic
